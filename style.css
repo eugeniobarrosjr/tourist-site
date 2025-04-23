@@ -24,6 +24,10 @@
   color: var(--text-primary);
 }
 
+body {
+  background-color: var(--background);
+}
+
 h1,
 h2,
 h3 {
@@ -69,4 +73,9 @@ p {
   h3 {
     font-size: 1.5rem;
   }
+}
+
+#app {
+  width: 1120px;
+  margin: 88px auto;
 }
