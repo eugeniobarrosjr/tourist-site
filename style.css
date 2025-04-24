@@ -43,6 +43,7 @@ h2 {
 }
 
 h3 {
+  margin-top: 1.25rem;
   font-size: 1.75rem;
 }
 
@@ -93,6 +94,12 @@ img {
   border-radius: 32px;
   margin-top: 2.5rem;
   width: 100%;
+}
+
+article img {
+  max-height: 350px;
+  object-fit: cover;
+  object-position: center;
 }
 
 .divider {
