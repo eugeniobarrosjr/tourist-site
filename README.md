@@ -1,4 +1,4 @@
-# 🌏 Conheça Busan
+# 🌏 Discover Busan
 
 This is a visually engaging travel landing page highlighting the beauty and culture of **Busan, South Korea**. The page was created as part of a frontend development exercise, focusing on **HTML5** and **CSS3** for layout, typography, and responsive design.
 
